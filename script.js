@@ -4,8 +4,8 @@ var TITLE = 'Liverpool FC Revenue (2016–2022)';
 var CAPTION = 'Source: Liverpool FC Financial Statement';
 
 // Add download link to the caption
-CAPTION += '<br><a href="https://github.com/HandsOnDataViz/highcharts-line-annotated" style="color:blue">View data and code</a>, \
-created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnDataViz</a> \
+CAPTION += '<br><a href="https://github.com/yuto0718github/line-chart-practice" style="color:blue">View data and code</a>, \
+created by Yuto Yamaguchi \
 with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
 
 // x-axis label and label in tooltip
