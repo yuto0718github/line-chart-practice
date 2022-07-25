@@ -64,6 +64,10 @@ $(document).ready(function() {
             minWidth: 600
         }
       },
+      
+      xAxis: {
+        allowDecimals: false,
+        },
 
       title: { text: TITLE },
       caption: { text: CAPTION },
